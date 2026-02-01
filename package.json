@@ -1,0 +1,13 @@
+{
+  "name": "mail-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "axios": "^1.6.0",
+    "dotenv": "^16.4.0"
+  }
+}
